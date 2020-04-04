@@ -1,0 +1,11 @@
+<RCC>
+  <qresource>
+    <file>images/logo.png</file>
+    <file>images/back.jpg</file>
+    <file>images/black.png</file>
+    <file>images/2.png</file>
+    <file>images/photo.png</file>
+    <file>images/timg.png</file>
+    <file>images/1.jpg</file>
+  </qresource>
+</RCC>
